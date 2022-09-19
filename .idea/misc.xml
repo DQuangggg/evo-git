@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/evo-iam/pom.xml" />
+        <option value="$PROJECT_DIR$/evo-common/pom.xml" />
+        <option value="$PROJECT_DIR$/evo-service-discovery/pom.xml" />
+        <option value="$PROJECT_DIR$/evo-order/pom.xml" />
+        <option value="$PROJECT_DIR$/evo_office/pom.xml" />
+        <option value="$PROJECT_DIR$/evo-office/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="corretto-11" project-jdk-type="JavaSDK" />
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>

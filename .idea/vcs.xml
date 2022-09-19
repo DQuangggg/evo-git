@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/evo-common" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/evo-iam" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/evo-office" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/evo-order" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/evo-order - Copy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/evo-product" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/evo-service-discovery" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/evo-storage" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/evo-web-app" vcs="Git" />
+  </component>
+</project>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/evo-common/common-amqp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/evo-common/common-cache/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/evo-common/common-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/evo-common/common-email/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/evo-common/common-encrypt/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/evo-common/common-kafka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/evo-common/common-ldap-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/evo-common/common-ldap-data/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/evo-common/common-model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/evo-common/common-persistence/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/evo-common/common-util/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/evo-common/common-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/evo-common/evo_office/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/evo-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/evo-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/evo-common/target/generated-resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/evo-iam/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/evo-iam/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/evo-office/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/evo-office/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/evo-order/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/evo-order/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/evo-service-discovery/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/evo-service-discovery/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/evo_office/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/evo_office/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
